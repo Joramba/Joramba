@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-# Heorhi Bazhko
-
 ## My Contact Info:
 * Location: Poznan, Poland
 * Phone: +48 789 412 900
