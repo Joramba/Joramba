@@ -48,7 +48,7 @@ function withoutRepeat(arr) {
 University: Poznan University of Technology (still)
 
 ## Projects 
-Marvel Information Portal using free Marvel API (HTML, CSS, node.js, React)
+Marvel Information Portal using free Marvel API (HTML, SCSS, node.js, React)
 https://github.com/Joramba/marvel_portal
 
 ## Languages
