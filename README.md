@@ -16,6 +16,7 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * Native Python
 * R
 * HTML5, SCSS
+* Webpack, gulp
 * Native JavaScript, React + Redux 
 * Git, GitHub
 * VS Code, IntelliJ IDEA
