@@ -12,12 +12,12 @@
 I’m a third-year student of Poznan University of Technology. I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
 I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
 ## Skills
+* HTML5, SCSS
+* Native JavaScript, React + Redux 
+* Webpack, gulp
 * C/C++
 * Native Python
 * R
-* HTML5, SCSS
-* Webpack, gulp
-* Native JavaScript, React + Redux 
 * Git, GitHub
 * VS Code, IntelliJ IDEA
 * Adobe Photoshop, Sony Vegas
