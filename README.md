@@ -48,8 +48,10 @@ function withoutRepeat(arr) {
 University: Poznan University of Technology (still)
 
 ## Projects 
-Marvel Information Portal using free Marvel API (HTML, SCSS, node.js, React)
-https://github.com/Joramba/marvel_portal
+- Momentum app: https://joramba.github.io/momentum/momentum/
+- Eldritch Horror - application-helper for the board game "Ancient Horror": https://joramba.github.io/codejam-eldritch/app/
+- Marvel Information Portal using free Marvel API (HTML, SCSS, node.js, React): https://github.com/Joramba/marvel_portal
+
 
 ## Languages
 * Russian - Native
