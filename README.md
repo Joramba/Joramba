@@ -17,6 +17,7 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * Webpack, gulp
 * C/C++
 * Native Python
+* Good knowledge in the Algorithms and Data structure (AVL, Binary trees, Graph, sorting algorithms)
 * R
 * Git, GitHub
 * VS Code, IntelliJ IDEA
