@@ -46,7 +46,8 @@ function withoutRepeat(arr) {
 }
 ```
 ## Education: 
-University: Poznan University of Technology (still)
+* Cracow University of Technology (Preparatory course for foreign students, Computer Science )
+* University: Poznan University of Technology (still)
 
 ## Projects 
 - Momentum app: https://joramba.github.io/momentum/momentum/
