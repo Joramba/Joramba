@@ -12,16 +12,20 @@
 I’m a third-year student of Poznan University of Technology. I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
 I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
 ## Skills
-* HTML5, SCSS
-* Native JavaScript, React + Redux 
-* Webpack, gulp
+* HTML5
+* CSS (Framework Bootstrap, Preprocessor SASS/SCSS)
+* JavaScript (Fundamentals, Functional Programming, OOP, Asynchronous JavaScript, ES6+, DOM), JSON.
+* React JS (JSX, Virtual DOM, Node.js), Redux (intermediate level knowledge).
+* Module Bundlers: Gulp, Webpack.
 * C/C++
 * Native Python
 * Good knowledge in the Algorithms and Data structure (AVL, Binary trees, Graph, sorting algorithms)
 * R
-* Git, GitHub
-* VS Code, IntelliJ IDEA
+* Version control: Git (remote service GitHub)
+* Windows OS, Linux (Ubuntu, Fedora)
+* Editors: VSCode, VS, Sublime, PyCharm community
 * Adobe Photoshop, Sony Vegas
+
 ## Code example:
 ```
 function withoutRepeat(arr) {
@@ -51,7 +55,7 @@ function withoutRepeat(arr) {
 
 ## Projects 
 - Momentum app: https://joramba.github.io/momentum/momentum/
-- Eldritch Horror - application-helper for the board game "Ancient Horror": https://joramba.github.io/codejam-eldritch/app/
+- Coffee app using React: https://joramba.github.io/Coffee_app/
 - Marvel Information Portal using free Marvel API (HTML, SCSS, node.js, React): https://github.com/Joramba/marvel_portal
 
 
