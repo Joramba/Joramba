@@ -9,13 +9,13 @@
 * [Discord](https://discordapp.com/users/298040828813901825/)
 
 ## About Me
-I’m a third-year student of Poznan University of Technology. I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
-I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
+I am a Computer Science graduate at the Poznan University of Technology. I've explored diverse technologies while developing applications and developed a keen interest in full-stack responsive web applications. Eager to contribute to impactful projects and collaborate with like-minded professionals, I am actively seeking opportunities to apply and expand my skills.
 ## Skills
 * HTML5
 * CSS (Framework Bootstrap, Preprocessor SASS/SCSS)
 * JavaScript (Fundamentals, Functional Programming, OOP, Asynchronous JavaScript, ES6+, DOM), JSON.
-* React JS (JSX, Virtual DOM, Node.js), Redux (intermediate level knowledge).
+* React JS (JSX, Virtual DOM), Redux.
+* Node.js (NestJS)
 * Module Bundlers: Gulp, Webpack.
 * C/C++
 * Native Python
