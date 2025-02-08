@@ -1,65 +1,73 @@
-### Hi there 👋
+# 👋 Hi there, I'm Heorhi!  
 
-## My Contact Info:
-* Location: Poznan, Poland
-* Phone: +48 789 412 900
-* E-mail: jorkabozko@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/heorhi-bazhko-180721238/)
-* [GitHub](https://github.com/Joramba)
-* [Discord](https://discordapp.com/users/298040828813901825/)
+🚀 **Full-Stack Developer | React | Next.js | TypeScript | Node.js (NestJS) | ASP.NET Core**  
 
-## About Me
-I am a Computer Science graduate at the Poznan University of Technology. I've explored diverse technologies while developing applications and developed a keen interest in full-stack responsive web applications. Eager to contribute to impactful projects and collaborate with like-minded professionals, I am actively seeking opportunities to apply and expand my skills.
-## Skills
-* HTML5
-* CSS (Framework Bootstrap, Preprocessor SASS/SCSS)
-* JavaScript (Fundamentals, Functional Programming, OOP, Asynchronous JavaScript, ES6+, DOM), JSON.
-* React JS (JSX, Virtual DOM), Redux.
-* Node.js (NestJS)
-* Module Bundlers: Gulp, Webpack.
-* C/C++
-* Native Python
-* Good knowledge in the Algorithms and Data structure (AVL, Binary trees, Graph, sorting algorithms)
-* R
-* Version control: Git (remote service GitHub)
-* Windows OS, Linux (Ubuntu, Fedora)
-* Editors: VSCode, VS, Sublime, PyCharm community
-* Adobe Photoshop, Sony Vegas
+## 📌 About Me  
+I am a **Computer Science graduate** from **Poznan University of Technology**, passionate about building **full-stack responsive web applications**. My journey in development has led me to explore various **frontend and backend technologies**, and I love working on **scalable and efficient solutions**.  
 
-## Code example:
-```
-function withoutRepeat(arr) {
-    for (let i = 0; i < arr.length; i++) {
-        const elem = arr[i];
-        if (!(elem in obj)) {
-            obj[elem] = 1;
-        } else {
-            obj[elem] += 1;
-        }
-    }
+💡 I enjoy solving complex problems, continuously learning new technologies, and contributing to impactful projects. My expertise spans **React, TypeScript, NestJS, ASP.NET Core, and cloud technologies**, allowing me to build modern, high-performance applications.  
 
-    const keys = Object.keys(obj);
+🌍 Open to new opportunities in software development, and excited to collaborate with **like-minded professionals**.  
 
-    keys.forEach(elem => {
-        if (obj[elem] === 1) {
-            newArr.push(+elem)
-        }
-    })
+---
 
-    return newArr
-}
-```
-## Education: 
-* Cracow University of Technology (Preparatory course for foreign students, Computer Science )
-* University: Poznan University of Technology (still)
+## 🛠️ Tech Stack  
 
-## Projects 
-- Momentum app: https://joramba.github.io/momentum/momentum/
-- Coffee app using React: https://joramba.github.io/Coffee_app/
-- Marvel Information Portal using free Marvel API (HTML, SCSS, node.js, React): https://github.com/Joramba/marvel_portal
+### **Main Technologies**  
+- 🌐 **Frontend**: HTML5, CSS (SASS/SCSS, Tailwind CSS), React (Next.js, Styled Components, GraphQL, Redux), TypeScript  
+- ⚙ **Backend**: Node.js (NestJS, Prisma ORM), ASP.NET Core  
+- 🗄 **Databases**: SQL, PostgreSQL, MongoDB  
+- 🛠 **Tools & DevOps**: Docker, Git, Webpack, Gulp  
+- 🖥 **Other**: Python (Flask, Django), C, C++, PHP, Linux  
+
+📌 Passionate about **clean code, scalable architectures, and best practices** in modern software development.  
+
+---
+
+## 🎓 Education  
+🎓 **Master of Engineering Management** – Poznan University of Technology  
+🎓 **Bachelor of Computer Science** – Poznan University of Technology  
+📚 Strong background in **Data Structures & Algorithms, OOP, and Software Engineering**  
+
+---
+
+## 💼 Projects  
+
+### 🌍 Web & Full-Stack Applications  
+- 🔹 **[LeisureLink Frontend (Repo)](https://github.com/Joramba/LeisureLink_frontend)** – Social event discovery platform  
+- 🔹 **[Momentum App (Repo)](https://github.com/Joramba/momentum/)** – Productivity and time management app  
+  - 🌐 **[Live Demo](https://joramba.github.io/momentum/momentum/)**  
+- 🔹 **[React Coffee App (Repo)](https://github.com/Joramba/Coffee_app)** – Coffee shop app built with React  
+  - 🌐 **[Live Demo](https://joramba.github.io/Coffee_app/)**  
+
+### 📊 Backend & API Development  
+- 🔹 **[Bets App (Repo)](https://github.com/Joramba/bet_app)** – REST API for sports betting odds, featuring match data retrieval and odds calculation  
+
+### 📱 Mobile Development  
+- 🔹 **[Estate App (Repo)](https://github.com/Joramba/Estate_app)** – Real estate management app built with React Native  
 
 
-## Languages
-* Russian - Native
-* English - B2
-* Polish - Intermediate
+📌 Always excited to build **scalable, efficient, and user-friendly** applications! 🚀  
+
+---
+
+## 🏆 Languages  
+- 🇷🇺 **Russian** – Native  
+- 🇬🇧 **English** – Advanced 
+- 🇵🇱 **Polish** – Proficiency 
+
+---
+
+## 📫 Let's Connect!  
+
+📍 **Location:** Poznan, Poland  
+📧 **E-mail:** [jorkabozko@gmail.com](mailto:jorkabozko@gmail.com)  
+💼 **[LinkedIn](https://www.linkedin.com/in/heorhi-bazhko-180721238/)**  
+🐙 **[GitHub](https://github.com/Joramba)**  
+💬 **[Discord](https://discordapp.com/users/298040828813901825/)**  
+
+---
+
+⚡ **"Code. Learn. Innovate."**  
+
+
