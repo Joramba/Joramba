@@ -1,4 +1,4 @@
-# Hi there, I'm Heorhi
+# 👋 Hi there, I'm Heorhi
 
 **Full-Stack Developer | React | Next.js | TypeScript | Node.js (NestJS) | ASP.NET Core**
 
