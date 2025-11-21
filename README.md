@@ -52,9 +52,10 @@ Always excited to build **scalable, efficient, and user-friendly** applications.
 ---
 
 ## 🏆 Languages
-- **Russian** – Native  
-- **English** – Advanced  
+- **English** – Proficiency  
 - **Polish** – Proficiency  
+- **Russian** – Native  
+- **Belarusian** – Native
 
 ---
 
